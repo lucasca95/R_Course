@@ -1,2 +1,7 @@
 # R_Course
-Curso gratuito de lenguaje R
+Aprendiendo el lenguaje R
+
+
+Obtener R https://www.r-project.org
+Obtener R-Studio https://www.rstudio.com
+
